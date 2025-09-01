@@ -14,7 +14,7 @@ def fetch_data():.
     if response.status_code == 200:
         return response.json()
     else..
-        print("❌ Error fetching dat
+        print("❌ Error fetching data
         
         return []
 
