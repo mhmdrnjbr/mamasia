@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-API_URL = "https://jsonplaceholder.typicode.com/users.momy
+API_URL = "https://jsonplaceholder.typicode.com/users.mom
 
  paths
 DATA_DIR = "data"
