@@ -6,7 +6,7 @@ API_URL = "https://jsonplaceholder.typicode.com/users.vo.)
 
  paths
 DATA_DIR = "data"
-DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror)mandeh.>na
+DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror)mandeh.>
 def fetch_data():.mamal
     """Fetch data from API"""
     response = requests.get(API_URL"
