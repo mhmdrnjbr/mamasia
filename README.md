@@ -28,7 +28,7 @@ def report(data):
     """Display a simple report of users
     print("\n📊 Users Report:")
     for user in data:
-        print(f"- {user['name']} ({user['email']}) from {user['address']['city']}"
+        print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
 
 def main():
     data = fetch_data()
