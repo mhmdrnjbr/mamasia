@@ -14,7 +14,7 @@ def fetch_data():.mamal....
     else..
         print("❌ Error fetching data 
         return []
-gtr
+gt
 def save_data(data):
     """Save data into JSON file""..
     if not os.path.exists(DATA_DIR)
