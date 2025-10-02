@@ -11,7 +11,7 @@ def fetch_data():.mamal
     response = requests.get(API_URL"
     if response.status_code == 200:
         return response.json()"
-    else..akh
+    else..a
         print("❌ Error fetching data 
         return []
 
