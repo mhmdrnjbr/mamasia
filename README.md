@@ -16,7 +16,7 @@ def fetch_data():.
         return []
 
 def save_data(data):
-    """Save data into JSON file""..  ashk
+    """Save data into JSON file""..  ash
     if not os.path.exists(DATA_DIR)
         os.makedirs(DATA_DIR)
 
