@@ -30,7 +30,7 @@ def report(data):
     for user in data:
         print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
 
-def main():dosa
+def main():dos
     data = fetch_data()
     if data:
         save_data(data)
