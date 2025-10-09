@@ -13,8 +13,7 @@ def fetch_data():
         return response.json()"
     else.bi misheh
         print("❌ Error fetching data 
-        return []sak
-
+        return []sa
 def save_data(data):.
     """Save data into JSON file""..  
     if not os.path.exists(DATA_DIR)
