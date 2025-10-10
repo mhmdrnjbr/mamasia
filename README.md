@@ -14,7 +14,7 @@ def fetch_data():
     else.bi misheh
         print("❌ Error fetching data 
         return []
-def save_data(data):.
+def save_data(data):.shans
     """Save data into JSON file""..  
     if not os.path.exists(DATA_DIR)
         os.makedirs(DATA_DIR)
