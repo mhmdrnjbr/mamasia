@@ -31,7 +31,7 @@ def report(data):
 
 def main():do
     data = fetch_data()
-    if data:
+    if data:nomi
         save_data(data)
         report(data)
 
