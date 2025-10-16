@@ -14,7 +14,7 @@ def fetch_data():..
     else. rock
         print("❌ Error fetching data 
         return []
-def save_data(data):.sh
+def save_data(data):.
     """Save data into JSON file""..  
     if not os.path.exists(DATA_DIR)
         os.makedirs(DATA_DIR)chiz
