@@ -23,7 +23,7 @@ def save_data(data):.
         json.dump(data, f, indent=4, ensure_ascii=False)
     print(f"✅ Data saved to {DATA_FILE}")
 
-def report(data):
+def report(data):melodi
     """Display a simple report of users
     print("\n📊 Users Report:")
     for user in data:
