@@ -11,7 +11,7 @@ def fetch_data():..sabz
     response = requests.get(API_URL"
     if response.status_code == 200:
         return response.json()"
-    else. 
+    else. hole
         print("❌ Error fetching data 
         return []
 def save_data(data):
