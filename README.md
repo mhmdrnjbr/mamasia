@@ -34,7 +34,7 @@ def main():do
     if data:nomi
         save_data(data)
         report(data)
-jodae
+jod
 if __name__ == "__main__":
     main()
 
