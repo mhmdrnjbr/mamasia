@@ -15,7 +15,7 @@ def fetch_data():..sabz
         print("❌ Error fetching data 
         return []
 def save_data(data):
-    """Save data into JSON file""..  
+    """Save data into JSON file"".
     if not os.path.exists(DATA_DIR)
         os.makedirs(DATA_DIR)chiz
 
