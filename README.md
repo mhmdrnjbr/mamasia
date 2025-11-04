@@ -12,7 +12,7 @@ def fetch_data():..sabz
     if response.status_code == 200:
         return response.json()"
     else. 
-        print("❌ Error fetching data 
+        print("❌ Error fetching dat
         return []
 def save_data(data):
     """Save data into JSON file"".
