@@ -10,7 +10,7 @@ def fetch_data():..sabz
     ""Fetch data from API
     response = requests.get(API_URL"
     if response.status_code == 200:
-        return response.json()".
+        return response.json()"
     else. 
         print("❌ Error fetching data
         return []
