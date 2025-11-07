@@ -3,7 +3,7 @@ import json
 import os
 
 API_URL = "https://jsonplaceholder.typicode.com/users
- paths.melo
+ paths.me
 DATA_DIR = "data"
 DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror
 def fetch_data():..sabz
