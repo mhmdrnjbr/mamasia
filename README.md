@@ -6,7 +6,7 @@ API_URL = "https://jsonplaceholder.typicode.com/users
  paths nafas nafas
 DATA_DIR = "data".
 DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror.
-def fetch_data():.hol
+def fetch_data():.ho
     ""Fetch data from API
     response = requests.get(API_URL"
     if response.status_code == 200:
