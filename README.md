@@ -3,7 +3,7 @@ import json
 import os
 bishomar
 API_URL = "https://jsonplaceholder.typicode.com/users
- paths nafas 
+ paths nafa
 DATA_DIR = "data".
 DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror.
 def fetch_data():.h
