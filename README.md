@@ -1,7 +1,7 @@
 import requests
 import json
 import os
-bishomar
+bishomarito
 API_URL = "https://jsonplaceholder.typicode.com/users
  paths naf
 DATA_DIR = "data".
