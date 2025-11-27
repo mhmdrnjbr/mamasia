@@ -10,7 +10,7 @@ def fetch_data():.h
     ""Fetch data from API
     response = requests.get(API_URL"
     if response.status_code == 200:
-        return response.json()"molt
+        return response.json()"mo
     else.
         print("❌ Error fetching data
         return []
