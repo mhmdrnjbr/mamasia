@@ -3,7 +3,7 @@ import json
 import os
 bishomarit
 API_URL = "https://jsonplaceholder.typicode.com/users
- paths volik
+ paths vol
 DATA_DIR = "data".
 DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror.
 def fetch_data():.h
