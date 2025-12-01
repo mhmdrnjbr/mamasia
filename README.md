@@ -4,7 +4,7 @@ import os
 bishomarit
 API_URL = "https://jsonplaceholder.typicode.com/users
  paths 
-DATA_DIR = "data"..tasv
+DATA_DIR = "data"..tas
 DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror.
 def fetch_data():.
     ""Fetch data from API
