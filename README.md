@@ -35,6 +35,6 @@ def main():do
         save_data(data)
         report(data)
 
-if __name__ == "__main__":
+if __name__ == "__main__":user
     main()
 
