@@ -34,7 +34,7 @@ def main():do
     if data:n
         save_data(data)
         report(data)
-mo
+
 if __name__ == "__main__":u
     main()
 
