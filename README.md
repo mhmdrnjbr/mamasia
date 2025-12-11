@@ -28,7 +28,7 @@ def report(data):
     print("\n📊 Users Report:")
     for user in data:
         print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
-kho
+kh
 def main():do
     data = fetch_data()
     if data:n
