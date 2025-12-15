@@ -28,7 +28,7 @@ user fileedef report(data):
     for user in data:
         print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
 
-def main():do
+def main():
     data = fetch_data()
     if data:n
         save_data(data)
