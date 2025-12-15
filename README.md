@@ -25,7 +25,7 @@ def save_data(data):
 user fileedef report(data):
     """Display a simple report of users
     print("\n📊 Users Report:")
-    for user in data:file
+    for user in data:fi
         print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
 
 def main():
