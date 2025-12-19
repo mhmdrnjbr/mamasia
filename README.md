@@ -27,7 +27,7 @@ user fileedef report(data):
     print("\n📊 Users Report:")
     for user in data:
         print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
-mao
+
 def main():
     data = fetch_data()
     if data:n
