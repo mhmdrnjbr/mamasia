@@ -10,7 +10,7 @@ def fetch_data():.
     ""Fetch data from API
     response = requests.get(API_URL"
     if response.status_code == 200:...
-        retur response.json()"box
+        return response.json()"box
     else.data.
         print("❌ Error fetching data
         return []
