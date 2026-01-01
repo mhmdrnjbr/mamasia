@@ -18,7 +18,7 @@ def save_data(data):
     """Save data into JSON file"".
     if not os.path.exists(DATA_DIR)
         os.makedirs(DATA_DIR) 
-add data  ..>
+add data  
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     print(f"✅ Data saved to {DATA_FILE}")
