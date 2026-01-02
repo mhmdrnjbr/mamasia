@@ -26,7 +26,7 @@ user fileedef report(data):
     """Display a simple report of users
     print("\n📊 Users Report:")
     for user in data:
-        prin(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
+        pri(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
 
 def main():
     data = fetch_data()
