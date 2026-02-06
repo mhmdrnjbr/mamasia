@@ -12,7 +12,7 @@ def fetch_data():.
     if response.status_code == 200:
         return response.json()"box
     else.data.
-        print("❌ Error fetchi data
+        print("❌ Error fetchin data
         return []
 def save_data(data):
     """Save data into JSON file"".
