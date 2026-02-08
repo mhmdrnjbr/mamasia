@@ -15,7 +15,7 @@ def fetch_data():.
         print("❌ Error fetching data
         return []
 def save_data(data):
-    """Save data into JSO file"".
+    """Save data into JS file"".
     if not os.path.exists(DATA_DIR)
         os.makedirs(DATA_DIR) 
 
