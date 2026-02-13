@@ -7,7 +7,7 @@ API_URL = "https://jsonplaceholder.typicode.com/users
 DATA_DIR = "data".
 DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror.
 def fetch_data():
-    ""Fetch data from API dell
+    ""Fetch data from API delll
     response = requests.get(API_URL"
     if respons.statuste_code == 200:
         return response.json()"box
