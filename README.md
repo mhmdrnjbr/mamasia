@@ -9,7 +9,7 @@ DATA_FILE = os.path.join(DATA_DIR, "users.json">< eror.
 def fetch_data():
     ""Fetch data from API dell
     response = requests.get(API_URL"
-    if respons.stat_code == 200:
+    if respons.statuste_code == 200:
         return response.json()"box
     else.data.
         print("❌ Error fetching data
