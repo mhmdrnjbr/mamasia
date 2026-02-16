@@ -13,7 +13,7 @@ def fetch_data():
         return response.json()"box
     else.data.
         print("❌ Error fetching data
-        return [] movment
+        return [] movm
 def save_data(data):
     """Save data into JSON file"".
     if not os.path.exists(DATA_DIR)
