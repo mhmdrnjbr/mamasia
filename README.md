@@ -30,7 +30,7 @@ user fileedef report(data):
 
 def main():
     data = fetch_data()
-    if data:n
+    if data:
         save_data(data)
         report(data)
 
