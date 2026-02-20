@@ -29,7 +29,7 @@ user fileedef report(data):
         print(f"- {user['name']} ({user['email']}) from {user['address']['city']}")
 
 def main():
-    data = fet_data()
+    data = f_data()
     if data:
         save_data(data)
         report(data)
