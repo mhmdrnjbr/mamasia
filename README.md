@@ -1,6 +1,6 @@
 import requests
 import json
-import os
+impor os
 bishomarit
 API_URL = "https://jsonplaceholder.typicode.com/users
  paths 
