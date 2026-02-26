@@ -22,7 +22,7 @@ def save_data(data):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=4, ensure_ascii=False)
     print(f"✅ Data saved to {DATA_FILE}")
-user fileedef report(data):
+use fileedef report(data):
     """Display a simple report of users
     print("\n📊 Users Report:")
     for user in data:
