@@ -34,6 +34,6 @@ def main():
         save_data(data)
         report(data)
 
-if __name__ == "__main__":u
+if __nam__ == "__main__":u
     main()
 
